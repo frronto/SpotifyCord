@@ -1,0 +1,5 @@
+{
+  "name": "My Progressive Web Application",
+  "short_name": "Progressive",
+  "start_url": "/?home=true"
+  }
